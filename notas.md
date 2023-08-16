@@ -49,7 +49,7 @@ Hasta aquí se puede concluir las actividades globales del objetivo 3.
 ----------------------
 
 
-##Conocimientos previos: 
+## Conocimientos previos: 
 1. Encuestas publicadas 
 2. Casos de estudio industriales (publicados o si son confidenciales, la info del proyecto que esté disponible) 
 3. Prototipos/repositorios de herramientas tecnológicas que tengan disponibles a partir de investigación previas
