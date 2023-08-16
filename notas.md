@@ -47,3 +47,10 @@ Hasta aquí se puede concluir las actividades globales del objetivo 2.
 3. Diseño de casos de uso representativos de la síntesis de los resultados (e.g.,diagramas de caso de uso y/o casos de uso viviente). Esta actividad es para ser chequeada durante la ejecución del proyecto.
 Hasta aquí se puede concluir las actividades globales del objetivo 3.
 ----------------------
+
+
+##Conocimientos previos: 
+1. Encuestas publicadas 
+2. Casos de estudio industriales (publicados o si son confidenciales, la info del proyecto que esté disponible) 
+3. Prototipos/repositorios de herramientas tecnológicas que tengan disponibles a partir de investigación previas
+4. Metodologías de acercamiento a casos de estudio industriales publicadas
